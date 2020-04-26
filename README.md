@@ -1,4 +1,4 @@
 
-This Repository is created to keep track of my knowledge upgrade process.
+This Repository tracks my knowledge upgrade process.
 
 Refer: https://github.com/purusothaman-raghu/MyProfile/wiki  for Progress...
